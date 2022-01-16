@@ -20,7 +20,9 @@ The dataset is part of the large dataset held at the National Institutes of Diab
 - Age : Age (years)
 - Outcome : Have the disease(1) or not (0)
 
-
-
-* KAGGLE : https://www.kaggle.com/kubrabilinmis/diabetes-feature-engineering
 * Also you can access the dataset here : https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+
+## My Kaggle Notebook
+* https://www.kaggle.com/kubrabilinmis/diabetes-feature-engineering
+
