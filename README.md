@@ -22,5 +22,5 @@ The dataset is part of the large dataset held at the National Institutes of Diab
 
 
 
-kaggle : https://www.kaggle.com/kubrabilinmis/diabetes-feature-engineering
-dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database
+- kaggle : https://www.kaggle.com/kubrabilinmis/diabetes-feature-engineering
+- dataset: https://www.kaggle.com/uciml/pima-indians-diabetes-database
