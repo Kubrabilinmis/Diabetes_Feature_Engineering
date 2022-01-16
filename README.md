@@ -6,7 +6,7 @@
 ## Business Problem 
 It is desired to develop a machine learning model that can predict whether people have diabetes when their characteristics are specified. You are expected to perform the necessary data analysis and feature engineering steps before developing the model.
 
-### Dataset Description 
+## Dataset Description 
 The dataset is part of the large dataset held at the National Institutes of Diabetes-Digestive-Kidney Diseases in the USA. are data. The target variable is specified as "Outcome"; 1 indicates positive diabetes test result, 0 indicates negative.
 
 ## Variables
