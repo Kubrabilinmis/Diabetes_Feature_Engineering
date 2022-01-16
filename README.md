@@ -22,5 +22,5 @@ The dataset is part of the large dataset held at the National Institutes of Diab
 
 
 
-- Kaggle : https://www.kaggle.com/kubrabilinmis/diabetes-feature-engineering
+* Kaggle : https://www.kaggle.com/kubrabilinmis/diabetes-feature-engineering
 
