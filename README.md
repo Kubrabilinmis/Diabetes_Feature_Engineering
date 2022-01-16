@@ -9,7 +9,7 @@ It is desired to develop a machine learning model that can predict whether peopl
 ### Dataset Description 
 The dataset is part of the large dataset held at the National Institutes of Diabetes-Digestive-Kidney Diseases in the USA. are data. The target variable is specified as "Outcome"; 1 indicates positive diabetes test result, 0 indicates negative.
 
-# Variables
+### Variables
 - Pregnancies : Number of pregnancies
 - Glucose : 2-hour plasma glucose concentration in the oral glucose tolerance test
 - Blood Pressure : Blood Pressure (Smallness) (mm Hg)
