@@ -1,4 +1,4 @@
-### Diabetes_Feature_Engineering
+### Diabetes Feature Engineering
 
 ![471525656type1-diabates](https://user-images.githubusercontent.com/81189969/149674455-47cfdc68-3801-4493-89ba-31976ecdb8a5.jpg)
 
